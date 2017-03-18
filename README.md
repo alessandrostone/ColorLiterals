@@ -1,6 +1,12 @@
-# ColorLiterals
-Xcode Color Literals Unchained 😎
+![](images/Literals.png)
 
+#Xcode Color Literal Unchained 😎
+
+`#colorLiteral(red: 0.4, green: 0.9, blue: 0.9, alpha: 1)`
+
+![](images/Base16LiteralsArray.png)
+
+## Base16 Paraise Colors Array
 ~~~
 let colors =  [
   #colorLiteral(red: 0.9389083982, green: 0.5173594952, blue: 0.7162955999, alpha: 1),
@@ -20,9 +26,3 @@ let colors =  [
   #colorLiteral(red: 0.2435762286, green: 0.1623017192, blue: 0.2371093035, alpha: 1)
 ]
 ~~~
-
-##Literals Unchained
-Xcode Playground's square color literals, working in normal editor
-
-
-`#colorLiteral(red:   0.4, green: 0.9, blue: 0.9, alpha: 1)`
